@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @henryokaforng
+- 👀 I’m interested in programming, cybersecurity, qa testing, ui/ux, project management
+- 🌱 I’m currently learning python language
+- 💞️ I’m looking to collaborate on software engineering
+- 📫 How to reach me henryokaforng@gmail.com
